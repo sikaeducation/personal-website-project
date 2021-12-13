@@ -25,7 +25,7 @@ This page should contain details about something you like to create. You can mak
 * Creative Writing
 * Videos
 
-The page should include pictures and descriptions. These can be written as a tutorial, a showcase, a tour, or anything else that gives insight into your creation and your process.
+The page should include media (pictures, audio, or video) and descriptions. These can be written as a tutorial, a showcase, a tour, or anything else that gives insight into your creation and your process.
 
 ### Revisions
 
@@ -49,6 +49,10 @@ Note that you are not required to use Git or GitHub for this project, but you ma
 
 * The URL of your deployed personal website
 
+## Example
+
+For an example of the personal website project, review [Kyle Coberly's personal website](https://sikaeducation.github.io/kyle-coberly-personal-website-project/).
+
 ## Rubric
 
 Following directions:
@@ -66,7 +70,7 @@ Following directions:
       <ul>
         <li>An "About Me" page with a picture, a paragraph about themselves, and a paragraph about why they want to be a software engineer</li>
         <li>A "Revisions" page with at least one revision in response to feedback, including before and after pictures and a description of the feedback received</li>
-        <li>A page containing images and descriptions of a creative work</li>
+        <li>A page containing media and descriptions of a creative work</li>
         <li>Links between all pages</li>
       </ul>
     </td>
@@ -98,7 +102,7 @@ Revision:
   </tr>
   <tr>
     <td>No substantive changes were made in response to feedback</td>
-    <td>The site incorporated trivial changes in response to feedback</td>
+    <td>The site incorporates trivial changes in response to feedback</td>
     <td>The site thoughtfully incorporates user feedback</td>
   </tr>
 </table>
