@@ -55,6 +55,11 @@ Following directions:
 
 <table>
   <tr>
+    <th>1</th>
+    <th>2</th>
+    <th>3</th>
+  </tr>
+  <tr>
     <td>This is a completely unrelated project</td>
     <td>Some of the requirements were met</td>
     <td>The site contains:
@@ -72,6 +77,11 @@ Creativity:
 
 <table>
   <tr>
+    <th>1</th>
+    <th>2</th>
+    <th>3</th>
+  </tr>
+  <tr>
     <td>The creative work displayed is unimaginative or poorly presented</td>
     <td>The creative work displayed is either imaginative or well-presented, but not both</td>
     <td>The creative work displayed is imaginative and well-presented</td>
@@ -81,6 +91,11 @@ Creativity:
 Revision:
 
 <table>
+  <tr>
+    <th>1</th>
+    <th>2</th>
+    <th>3</th>
+  </tr>
   <tr>
     <td>No substantive changes were made in response to feedback</td>
     <td>The site incorporated trivial changes in response to feedback</td>
@@ -92,6 +107,11 @@ Revision:
 Presentation:
 
 <table>
+  <tr>
+    <th>1</th>
+    <th>2</th>
+    <th>3</th>
+  </tr>
   <tr>
     <td>The overall presentation of the site is poor</td>
     <td>The overall presentation of the site is adequate</td>
